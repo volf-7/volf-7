@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Cherry<br><br>🎓 B.Tech Computer Science student at Manipal University Jaipur<br>💻 Building with Next.js 14, Supabase, Tailwind CSS & Framer Motion<br>🌱 Sharpening my DSA fundamentals — C, C++, Java at the core<br>🚀 Entrepreneurial mindset — I like turning ideas into shipped products<br>📍 Based in India, aiming to grow in the IT industry
+👋 Hi, I'm Cherry<br><br>💻 Building with Next.js 14, Supabase, Tailwind CSS & Framer Motion<br>🌱 Sharpening my DSA fundamentals — C, C++, Java at the core<br>🚀 Entrepreneurial mindset — I like turning ideas into shipped products<br>📍 Based in India, aiming to grow in the IT industry, 
 
 
 ## 🌐 Socials:
